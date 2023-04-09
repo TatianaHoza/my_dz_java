@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //Реализовать алгоритм сортировки слиянием
 public class Task1 {
-    public static void listSorted(String[] args) {
+    public static void listSorted() {
         int[] list1 = new int[] {12,10,5,13,8,30};
         int[] list2 = new int[] {1,18,6,123,18,300};
         int[] list3 = new int[list1.length + list2.length];

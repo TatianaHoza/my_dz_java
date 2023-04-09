@@ -9,7 +9,7 @@ import java.util.List;
 //Задан целочисленный список ArrayList.
 //        Найти минимальное, максимальное и среднее из этого списка.
 public class Task3 {
-    public static void arraySorted(String[] args) {
+    public static void arraySorted() {
 
         List<Integer> array = new ArrayList<>();
         //int[] array = new int[] {12,10,5,13,8,30,115,18,90,1,0};

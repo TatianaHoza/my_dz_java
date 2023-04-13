@@ -5,8 +5,8 @@ import dz_4.tasks.ImplementQueue;
 
 public class Main {
     public static void main(String[] args) {
-
-        //ArrayReverse.main();
+ArrayReverse.addList();
+       // ArrayReverse.reverseLinkedList();
 
         //ImplementQueue.main();
 

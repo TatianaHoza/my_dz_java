@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 public class ArrayReverse {
-    public static void main(String[] args) {
+    public static void addList() {
         List<String> list = new LinkedList<String>();
         list.add("Hello");
         list.add("world");
